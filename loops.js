@@ -9,4 +9,6 @@
    return array;
  };
  
- 
+ var whileLoop = () => {
+   
+ };
