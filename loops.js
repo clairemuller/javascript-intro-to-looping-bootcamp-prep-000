@@ -21,7 +21,9 @@
    do {
      
    }
-   while ();
+   while (function incrementVariable() {
+  i = i + 1;
+   });
  };
  
  
