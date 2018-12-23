@@ -10,5 +10,5 @@
  };
  
  var whileLoop = (num) => {
-   
+   let countdown = num;
  };
