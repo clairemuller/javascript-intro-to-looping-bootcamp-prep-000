@@ -12,7 +12,7 @@
  var whileLoop = (num) => {
    let countdown = num;
    while (countdown > 0) {
-     console.log();
+     console.log(--countdown);
    }
    return 'done'
  };
