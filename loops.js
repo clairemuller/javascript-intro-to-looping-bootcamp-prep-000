@@ -17,9 +17,9 @@
    return 'done';
  };
  
- var doWhileLoop = () => {
+ var doWhileLoop = (array) => {
    
- }
+ };
  
  
  
