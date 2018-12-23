@@ -16,8 +16,9 @@
    }
    return 'done';
  };
- 
- function incrementVariable() {
+
+var i = 0; 
+function incrementVariable() {
   i = i + 1;
 }
 
