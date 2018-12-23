@@ -11,6 +11,8 @@
  
  var whileLoop = (num) => {
    let countdown = num;
-   while 
+   while (countdown > 0) {
+     
+   }
    return 'done'
  };
