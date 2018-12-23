@@ -18,7 +18,7 @@
  };
  
  var doWhileLoop = (array) => {
-   
+   do 
  };
  
  
