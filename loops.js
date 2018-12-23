@@ -17,6 +17,10 @@
    return 'done';
  };
  
+ function incrementVariable() {
+  i = i + 1;
+}
+
  var doWhileLoop = (array) => {
    do {
      array.pop();
