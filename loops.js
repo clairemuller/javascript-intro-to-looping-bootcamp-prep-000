@@ -19,7 +19,7 @@
  
  var doWhileLoop = (array) => {
    do {
-     array.length(-1);
+     array.length();
    } while (array.length > 0 && incrementVariable());
    return array;
  };
