@@ -9,6 +9,6 @@
    return array;
  };
  
- var whileLoop = () => {
+ var whileLoop = (num) => {
    
  };
