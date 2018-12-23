@@ -8,4 +8,5 @@
        return "Error!";
      }
    }
+   return array;
  };
